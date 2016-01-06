@@ -1,0 +1,51 @@
+h1 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+h2 {
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: monospace;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.name {
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.contactinfo {
+  text-align: right;
+  float: right;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.experience {
+  padding-top: 150px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.education {
+  padding: 20px;
+  color: gray;
+}
+
+.skills {
+  padding: 20px;
+  color: 	#778899;
+}
